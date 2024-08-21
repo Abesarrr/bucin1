@@ -4,7 +4,7 @@ function clicks() {
     $('#div2').addClass("fadeinv2");
         
     var typed = new Typed('.katakata', {
-        strings: ["Cuma mau bilang", "Selamat Malam Nur Kholifah", "Jangan Kaget yaaa", "I Love You IPEEEHHHHH :D"],
+        strings: ["Cuma mau bilang", "Selamat Malam Anggi", "Jangan Begadang Yaaa", "❤️❤️❤️❤️❤️"],
         typeSpeed: 70
     });
 }
